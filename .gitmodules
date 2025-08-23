@@ -1,0 +1,3 @@
+[submodule "MiniMind2"]
+	path = MiniMind2
+	url = https://github.com/jingyaogong/minimind

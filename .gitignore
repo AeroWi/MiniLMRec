@@ -1,0 +1,12 @@
+# 忽略大型压缩包
+git-lfs-linux-amd64-v3.5.1.tar.gz
+
+# 忽略你的数据文件夹（假设这里面有大文件）
+datarec/
+dataset/
+MiniMind2/
+out/
+# 忽略可能生成的模型文件或日志文件（如果你不想上传它们）
+*.pkl
+*.pt
+*.log
